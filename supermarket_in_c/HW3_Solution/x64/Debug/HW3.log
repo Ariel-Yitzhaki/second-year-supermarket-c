@@ -1,4 +1,0 @@
-﻿  SuperFile.c
-C:\Users\eligr\OneDrive\Desktop\מטלה 4 מערכות\HW3_2025_Solution\SuperFile.c(262,2): warning C4098: 'freeCustomerCloseFile': 'void' function returning a value
-C:\Users\eligr\OneDrive\Desktop\מטלה 4 מערכות\HW3_2025_Solution\SuperFile.c(196,1): warning C4715: 'loadCompressedMarketFromFile': not all control paths return a value
-  HW3.vcxproj -> C:\Users\eligr\OneDrive\Desktop\מטלה 4 מערכות\HW3_2025_Solution\x64\Debug\HW3_Solution.exe
