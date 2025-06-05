@@ -404,3 +404,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Personal addition
+Customers.txt
+*_Debug/
+*_Release/
+*.bin
